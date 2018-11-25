@@ -15,7 +15,7 @@ import android.widget.TextView;
 import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
- //toto je 9
+ //toto je 9    
     private Button mainButton;
     private EditText mainEdit;
     private TextView tv1;
