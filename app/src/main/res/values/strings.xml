@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Prvy</string>
+    <string name="textView">TEXT VIEW</string>
+    <string name="textView2">TEXT VIEW 2</string>
+    <string name="textView3">TEXT VIEW 3</string>
+    <string name="textView4">TEXT VIEW 4</string>
+    <string name="textView5">TEXT VIEW 5</string>
+    <string name="text">HELLO</string>
+    <string name="main_button">Submit</string>
+    <string name="mainButton2">HIT</string>
+</resources>
